@@ -7,6 +7,7 @@ import TodoList from './todos/TodoList';
 console.log('Senay')
 const App = () => {
   return ( <div className="App">
+      <h1> Reminder</h1>
         <h1>
           <TodoList />
         </h1>
